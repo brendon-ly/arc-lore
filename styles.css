@@ -1,0 +1,22 @@
+body {
+    font-family: Barlow, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #130918;
+}
+
+.Welcome {
+    color: #ece2d0;
+    display: flex;
+    margin: 0;
+    font-size: 3rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    height: 800px;
+    letter-spacing: -2.6px;
+    line-height: 105px;
+    text-transform: uppercase;
+}
+
