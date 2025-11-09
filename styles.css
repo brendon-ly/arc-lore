@@ -1,21 +1,22 @@
 body {
     font-family: "Barlow", sans-serif;
-    font-weight: 400;
     background-color: #130918;
     color: #ece2d0;
 }
 
-.Categories{
+h1{
+    font-weight: 100;
+    font-style: normal;
+    font-size: 1.25rem;
     text-transform: uppercase;
     text-decoration: none;
-    font-weight: 100;
-    font-size: 1.25rem;
     word-spacing: 2px;
 }
 
 .Welcome {
     display: flex;
     font-weight: 700;
+    font-style: normal;
     font-size: 3rem;
     text-align: center;
     align-items: center;
