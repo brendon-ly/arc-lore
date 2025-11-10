@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Barlow } from 'next/font/google';
 import "./globals.css";
+import Header from "./components/header";
 
 
 const barlow = Barlow({
@@ -18,7 +19,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }) {
   return (
     <html className={`${barlow.variable}`}>
-      <body>{children}</body>
+      <body><Header />{children}</body>
     </html>
   )
 }
