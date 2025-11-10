@@ -19,7 +19,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }) {
   return (
     <html className={`${barlow.variable}`}>
-      <body><Header />{children}</body>
+      <body>
+        <Header />
+        {children}
+      </body>
     </html>
   )
 }
