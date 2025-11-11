@@ -1,0 +1,49 @@
+[
+    {
+        "category": "People",
+        "sub-category": "Traders",
+        "entries": [
+            {
+                "name": "Celeste",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Shani",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Tian Wen",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Lance",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Apollo",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "People",
+        "sub-category": "Groups & Organizations",
+        "entries": [
+            {
+                "name": "Raiders",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Blue Gate Nomads",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    }
+]

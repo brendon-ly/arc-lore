@@ -1,0 +1,69 @@
+[
+    {
+        "category": "Toledo",
+        "sub-category": "Infrastructure",
+        "entries": [
+            {
+                "name": "Raider Hatches",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Field Depots",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "The Tubes",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Electricity",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Waterworks",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Food Cultivation",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Security",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "The Backyard",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Toledo",
+        "sub-category": "Society",
+        "entries": [
+            {
+                "name": "Speranza",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Toledo",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Black Markets",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    }
+]

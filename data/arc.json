@@ -1,0 +1,105 @@
+[
+    {
+        "category": "ARC",
+        "sub-category": "Security",
+        "entries": [
+            {
+                "name": "Snitch",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Wasp",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Hornet",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Pop",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Fireball",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Tick",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Turret",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Rocketeer",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Leaper",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Bastion",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Bombardier",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Spotter",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Queen",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "ARC",
+        "sub-category": "Industrial",
+        "entries": [
+            {
+                "name": "ARC Probe",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "ARC Courier",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "ARC Surveyor",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "ARC",
+        "sub-category": "Operations",
+        "entries": [
+            {
+                "name": "ARC",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    }
+]

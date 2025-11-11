@@ -12,8 +12,8 @@ const barlow = Barlow({
 });
 
 export const metadata: Metadata = {
-  title: 'Page Title',
-  description: 'Page Description',
+  title: 'ARC Lore',
+  description: 'The entire lore of ARC Raiders, right at your fingertips.',
 }
 
 export default function RootLayout({ children }: {

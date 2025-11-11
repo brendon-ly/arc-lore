@@ -1,0 +1,60 @@
+[
+    {
+        "category": "Topside",
+        "sub-category": "Locations",
+        "entries": [
+            {
+                "name": "Alcantara Dam",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Buried City",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Acerra Spaceport",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "The Blue Gate",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Topside",
+        "sub-category": "Nature",
+        "entries": [
+            {
+                "name": "The Storm",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "The Tremors",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    },
+    {
+        "category": "Topside",
+        "sub-category": "Raider Structures",
+        "entries": [
+            {
+                "name": "Cargo Elevators",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "name": "Supply Drops",
+                "image": "placeholder",
+                "desc": "placeholder"
+            }
+        ]
+    }
+]
