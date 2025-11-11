@@ -1,9 +1,9 @@
 import React from 'react'
+import Entries from '@/app/components/entries'
 
-const PeoplePage = () => {
-  return (
-    <div>PeoplePage</div>
-  )
+
+export default function PeoplePage() {
+  const path = "people";
+  return <Entries name = {path} />;
 }
 
-export default PeoplePage

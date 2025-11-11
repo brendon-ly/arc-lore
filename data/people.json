@@ -1,29 +1,34 @@
 [
     {
-        "category": "People",
-        "sub-category": "Traders",
+        "id": 1,
+        "subcategory": "Traders",
         "entries": [
             {
+                "id": 1,
                 "name": "Celeste",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Shani",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "Tian Wen",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 4,
                 "name": "Lance",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 5,
                 "name": "Apollo",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -31,15 +36,17 @@
         ]
     },
     {
-        "category": "People",
-        "sub-category": "Groups & Organizations",
+        "id": 2,
+        "subcategory": "Groups & Organizations",
         "entries": [
             {
+                "id": 1,
                 "name": "Raiders",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Blue Gate Nomads",
                 "image": "placeholder",
                 "desc": "placeholder"

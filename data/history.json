@@ -1,9 +1,10 @@
 [
     {
-        "category": "History",
-        "sub-category": "The Collapse",
+        "id": 1,
+        "subcategory": "The Collapse",
         "entries": [
             {
+                "id": 1,
                 "name": "The Collapse",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -11,15 +12,17 @@
         ]
     },
     {
-        "category": "History",
-        "sub-category": "The Exodus",
+        "id": 2,
+        "subcategory": "The Exodus",
         "entries": [
             {
+                "id": 1,
                 "name": "The Exodus",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Launch Towers",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -27,20 +30,23 @@
         ]
     },
     {
-        "category": "History",
-        "sub-category": "Sunrise",
+        "id": 3,
+        "subcategory": "Sunrise",
         "entries": [
             {
+                "id": 1,
                 "name": "Sunrise",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Settlers",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "Hydroponic Domes",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -48,30 +54,35 @@
         ]
     },
     {
-        "category": "History",
-        "sub-category": "The First Wave",
+        "id": 4,
+        "subcategory": "The First Wave",
         "entries": [
             {
+                "id": 1,
                 "name": "The First Wave",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Barons",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "Raider Camps",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 4,
                 "name": "The Battle Of Victory Ridge",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 5,
                 "name": "Major Aiva",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -79,10 +90,11 @@
         ]
     },
     {
-        "category": "History",
-        "sub-category": "The Second Wave",
+        "id": 5,
+        "subcategory": "The Second Wave",
         "entries": [
             {
+                "id": 1,
                 "name": "The Second Wave",
                 "image": "placeholder",
                 "desc": "placeholder"

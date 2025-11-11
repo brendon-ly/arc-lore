@@ -1,69 +1,82 @@
 [
     {
-        "category": "ARC",
-        "sub-category": "Security",
+        "id": 1,
+        "subcategory": "Security",
         "entries": [
             {
+                "id": 1,
                 "name": "Snitch",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Wasp",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
-            {
+            {   
+                "id": 3,
                 "name": "Hornet",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 4,
                 "name": "Pop",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 5,
                 "name": "Fireball",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 6,
                 "name": "Tick",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 7,
                 "name": "Turret",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 8,
                 "name": "Rocketeer",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 9,
                 "name": "Leaper",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 10,
                 "name": "Bastion",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 11,
                 "name": "Bombardier",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 12,
                 "name": "Spotter",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 13,
                 "name": "Queen",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -71,20 +84,23 @@
         ]
     },
     {
-        "category": "ARC",
-        "sub-category": "Industrial",
+        "id": 2,
+        "subcategory": "Industrial",
         "entries": [
             {
+                "id": 1,
                 "name": "ARC Probe",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "ARC Courier",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "ARC Surveyor",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -92,10 +108,11 @@
         ]
     },
     {
-        "category": "ARC",
-        "sub-category": "Operations",
+        "id": 3,
+        "subcategory": "Operations",
         "entries": [
             {
+                "id": 1,
                 "name": "ARC",
                 "image": "placeholder",
                 "desc": "placeholder"

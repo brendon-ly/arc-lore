@@ -1,9 +1,9 @@
 import React from 'react'
+import Entries from '@/app/components/entries'
 
-const HistoryPage = () => {
-  return (
-    <div>HistoryPage</div>
-  )
+
+export default function HistoryPage() {
+  const path = "history";
+  return <Entries name = {path} />;
 }
 
-export default HistoryPage

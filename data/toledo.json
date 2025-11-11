@@ -1,44 +1,52 @@
 [
     {
-        "category": "Toledo",
-        "sub-category": "Infrastructure",
+        "id": 1,
+        "subcategory": "Infrastructure",
         "entries": [
             {
+                "id": 1,
                 "name": "Raider Hatches",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Field Depots",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "The Tubes",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 4,
                 "name": "Electricity",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 5,
                 "name": "Waterworks",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 6,
                 "name": "Food Cultivation",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 6,
                 "name": "Security",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 7,
                 "name": "The Backyard",
                 "image": "placeholder",
                 "desc": "placeholder"
@@ -46,20 +54,23 @@
         ]
     },
     {
-        "category": "Toledo",
-        "sub-category": "Society",
+        "id": 2,
+        "subcategory": "Society",
         "entries": [
             {
+                "id": 1,
                 "name": "Speranza",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 2,
                 "name": "Toledo",
                 "image": "placeholder",
                 "desc": "placeholder"
             },
             {
+                "id": 3,
                 "name": "Black Markets",
                 "image": "placeholder",
                 "desc": "placeholder"
