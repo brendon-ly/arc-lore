@@ -1,9 +1,9 @@
 import React from 'react'
-import Entries from '@/app/components/entries'
+import EntriesList from '@/app/components/entrieslist'
 
 
 export default function HistoryPage() {
   const path = "history";
-  return <Entries name = {path} />;
+  return <EntriesList name = {path} />;
 }
 

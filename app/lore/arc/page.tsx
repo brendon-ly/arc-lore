@@ -1,10 +1,10 @@
 import React from 'react'
-import Entries from '@/app/components/entries'
+import EntriesList from '@/app/components/entrieslist'
 
 
 export default function ArcPage() {
   const path = "arc";
-  return <Entries name = {path} />;
+  return <EntriesList name = {path} />;
 }
 
 

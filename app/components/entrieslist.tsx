@@ -17,10 +17,11 @@ type EntriesProps = {
   name: string;
 };
 
-export default async function Entries({name}: EntriesProps) {
+export default async function EntriesList({name}: EntriesProps) {
     const parts = name.split("/").filter(Boolean);
     const cat = parts[0];
-    const subcat = parts[1];                                               //cat - Category, subcat - SubCategory
+    const subcat = parts[1];
+    const ent = parts[2];                                              //cat - Category, subcat - SubCategory, ent - Entry
     let entriesCheck: boolean = false
 
     const api = `http://localhost:3000/api/lore/${cat}`
@@ -33,6 +34,17 @@ export default async function Entries({name}: EntriesProps) {
         activeLore = lores.find((lore) => lore.subcategory === subcat)
     }
 
+
+    if (parts.length > 1) return(
+        <ul className="mr-321 ml-102 mt-10 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
+            {activeLore?.entries.map((entry) => (
+                <li key={entry.id}>
+                    <Link href={`/lore/${cat}/${activeLore.subcategory}/${entry.name}`}>{entry.name}</Link>
+                </li>
+            ))}
+        </ul>
+    )
+    
     return (
         <ul className="mr-321 ml-102 mt-10 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
             {entriesCheck ?
@@ -52,4 +64,5 @@ export default async function Entries({name}: EntriesProps) {
             }
         </ul>
     )
+
 }
