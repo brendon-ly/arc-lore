@@ -20,8 +20,7 @@ type EntriesProps = {
 export default async function EntriesList({name}: EntriesProps) {
     const parts = name.split("/").filter(Boolean);
     const cat = parts[0];
-    const subcat = parts[1];
-    const ent = parts[2];                                              //cat - Category, subcat - SubCategory, ent - Entry
+    const subcat = parts[1];                                            //cat - Category, subcat - SubCategory, ent - Entry
     let entriesCheck: boolean = false
 
     const api = `http://localhost:3000/api/lore/${cat}`
