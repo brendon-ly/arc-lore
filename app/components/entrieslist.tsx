@@ -42,7 +42,7 @@ export default async function EntriesList({name}: EntriesProps) {
         <ul className="mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
             {activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
-                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${entry.name}`}>{entry.name}</Link>
+                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${slugify(entry.name)}`}>{entry.name}</Link>
                 </li>
             ))}
         </ul>
@@ -53,11 +53,11 @@ export default async function EntriesList({name}: EntriesProps) {
             {entriesCheck ?
             activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
-                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${entry.name}`}>{entry.name}</Link>
+                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${slugify(entry.name)}`}>{entry.name}</Link>
                 </li>
             ))
 
-            :           //Need to fix whitespace for links
+            :
 
             lores.map((lore) => (
                 <li key={lore.id}>

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Image from "next/image";
 
 type Entry = {
     id: number;
@@ -32,11 +32,23 @@ export default async function EntryContent({name}: Props) {
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
     const activeLore = lores.find((lore) => slugify(lore.subcategory) === slugify(subcat))
-    const entry = activeLore?.entries.find(e => e.name = ent);
+    const entry = activeLore?.entries.find(e => slugify(e.name) === ent);
 
     return (
-        <div className="absolute ml-160 mt-4 pl-5">
+        <div className="absolute ml-160 mt-4 mr-99 pl-5">
             <div className="font-bold uppercase text-3xl">{entry?.name}</div>
+            {ent ?
+              <Image
+                src={`/images/lore/${cat}/${entry?.image}.webp`}
+                alt=""
+                width={255}
+                height={154}
+                className="mt-4"
+              />
+            :
+              <div></div>                       //Eventually for subcategory descriptions
+            }
+            <div className="mt-4 whitespace-pre-line"><p>{entry?.desc}</p></div>
         </div>
     )
 }

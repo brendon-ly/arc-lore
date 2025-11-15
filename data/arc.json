@@ -6,79 +6,79 @@
             {
                 "id": 1,
                 "name": "Snitch",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "snitch",
+                "desc": "Pesky and vigilant, the Snitch is an unarmed reconnaissance drone, equipped with an advanced scanning technology. They are frequently found patrolling strategic areas or scouting ahead for other enemy units. If it detects any human threat, it calls in reinforcements from orbit.\n\nThe ability to call in reinforcements make Snitches a high-risk target for Raiders who want to avoid escalating encounters. However, some Raiders have been known to intentionally aggravate it in a bid to conveniently harvest Wasp and Hornet Drivers."
             },
             {
                 "id": 2,
                 "name": "Wasp",
-                "image": "placeholder",
+                "image": "wasp",
                 "desc": "placeholder"
             },
             {   
                 "id": 3,
                 "name": "Hornet",
-                "image": "placeholder",
+                "image": "hornet",
                 "desc": "placeholder"
             },
             {
                 "id": 4,
                 "name": "Pop",
-                "image": "placeholder",
+                "image": "pop",
                 "desc": "placeholder"
             },
             {
                 "id": 5,
                 "name": "Fireball",
-                "image": "placeholder",
+                "image": "fireball",
                 "desc": "placeholder"
             },
             {
                 "id": 6,
                 "name": "Tick",
-                "image": "placeholder",
+                "image": "tick",
                 "desc": "placeholder"
             },
             {
                 "id": 7,
                 "name": "Turret",
-                "image": "placeholder",
+                "image": "turret",
                 "desc": "placeholder"
             },
             {
                 "id": 8,
                 "name": "Rocketeer",
-                "image": "placeholder",
+                "image": "rocketeer",
                 "desc": "placeholder"
             },
             {
                 "id": 9,
                 "name": "Leaper",
-                "image": "placeholder",
+                "image": "leaper",
                 "desc": "placeholder"
             },
             {
                 "id": 10,
                 "name": "Bastion",
-                "image": "placeholder",
+                "image": "bastion",
                 "desc": "placeholder"
             },
             {
                 "id": 11,
                 "name": "Bombardier",
-                "image": "placeholder",
+                "image": "bombardier",
                 "desc": "placeholder"
             },
             {
                 "id": 12,
                 "name": "Spotter",
-                "image": "placeholder",
+                "image": "spotter",
                 "desc": "placeholder"
             },
             {
                 "id": 13,
                 "name": "Queen",
-                "image": "placeholder",
+                "image": "queen",
                 "desc": "placeholder"
             }
         ]
