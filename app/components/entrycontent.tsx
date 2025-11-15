@@ -17,6 +17,11 @@ type Props = {
   name: string;
 };
 
+function slugify(str: string) {
+  return str.toLowerCase().replace(/\s+/g, "-");
+}
+
+
 export default async function EntryContent({name}: Props) {
     const parts = name.split("/").filter(Boolean);
     const cat = parts[0];
@@ -26,12 +31,12 @@ export default async function EntryContent({name}: Props) {
     const api = `http://localhost:3000/api/lore/${cat}`
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
-    const activeLore = lores.find((lore) => lore.subcategory === subcat);
+    const activeLore = lores.find((lore) => slugify(lore.subcategory) === slugify(subcat))
     const entry = activeLore?.entries.find(e => e.name = ent);
 
     return (
-        <div className="">
-
+        <div className="absolute ml-160 mt-4 pl-5">
+            <div className="font-bold uppercase text-3xl">{entry?.name}</div>
         </div>
     )
 }

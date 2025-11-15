@@ -7,9 +7,10 @@ export default function CategoryHeader() {
     const parts = pathname.split("/").filter(Boolean);
     const currentCat = parts[1];
     let currentSubCat;
-    if(parts?.length > 1)
+    if(parts?.length > 1){
         currentSubCat = parts[2];
-    
+        currentSubCat = currentSubCat?.replace(/-/g, " ");
+    }
 
     return (
         <div className="mr-99 ml-102 mt-20 pb-5 border-b">

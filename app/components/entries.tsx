@@ -9,8 +9,8 @@ type EntriesProps = {
 export default function Entries({name}: EntriesProps) {
     return (
   <>
-    <EntriesList name = {name} />
     <EntryContent name= {name} />
+    <EntriesList name = {name} />
   </>
 );
 }

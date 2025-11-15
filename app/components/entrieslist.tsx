@@ -17,6 +17,10 @@ type EntriesProps = {
   name: string;
 };
 
+function slugify(str: string) {
+  return str.toLowerCase().replace(/\s+/g, "-");
+}
+
 export default async function EntriesList({name}: EntriesProps) {
     const parts = name.split("/").filter(Boolean);
     const cat = parts[0];
@@ -30,26 +34,26 @@ export default async function EntriesList({name}: EntriesProps) {
 
     if (parts.length > 1)  {
         entriesCheck = true
-        activeLore = lores.find((lore) => lore.subcategory === subcat)
+        activeLore = lores.find((lore) => slugify(lore.subcategory) === slugify(subcat))
     }
 
 
     if (parts.length > 1) return(
-        <ul className="mr-321 ml-102 mt-10 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
+        <ul className="mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
             {activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
-                    <Link href={`/lore/${cat}/${activeLore.subcategory}/${entry.name}`}>{entry.name}</Link>
+                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${entry.name}`}>{entry.name}</Link>
                 </li>
             ))}
         </ul>
     )
     
     return (
-        <ul className="mr-321 ml-102 mt-10 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
+        <ul className="mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r">
             {entriesCheck ?
             activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
-                    <Link href={`/lore/${cat}/${activeLore.subcategory}/${entry.name}`}>{entry.name}</Link>
+                    <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${entry.name}`}>{entry.name}</Link>
                 </li>
             ))
 
@@ -57,7 +61,7 @@ export default async function EntriesList({name}: EntriesProps) {
 
             lores.map((lore) => (
                 <li key={lore.id}>
-                    <Link href={`/lore/${cat}/${lore.subcategory}`}>{lore.subcategory}</Link>
+                    <Link href={`/lore/${cat}/${slugify(lore.subcategory)}`}>{lore.subcategory}</Link>
                 </li>
             ))
             }
