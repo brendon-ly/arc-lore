@@ -6,50 +6,50 @@
             {
                 "id": 1,
                 "name": "Raider Hatches",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "raider-hatches",
+                "desc": "Scattered across Topside, Raider Hatches provide quick and silent escape routes back to Speranza. Built by the Raiders themselves, these hidden entries sit atop old manholes, crevices, and tunnels, offering a secure way home.\n\nUnlike the cargo elevators or subway tunnels, these hatches operate autonomously, requiring one-time passkeys for access. A simple autonomous system controls each hatch, verifying users and ensuring security before granting entry.\n\nThe hatches remain vital to Raider operations, their locations known only to those who need them. In a world where survival hinges on speed and secrecy, these silent doors often stand between life and death."
             },
             {
                 "id": 2,
                 "name": "Field Depots",
-                "image": "placeholder",
-                "desc": "Field Depots have been set up all around Topside, primarily for the pneumatic delivery mechanisms found within. It’s common Raider knowledge that placing an ARC field crate inside the mechanism will send it to Toledo for further study, with the Raider receiving valuable resources in return.\n\nThe field crates themselves are something of a mystery. They can be found all over the Topside, said to be dropped by malfunctioning Probes and Couriers."
+                "image": "field-depots",
+                "desc": "Field Depots have been set up all around Topside, primarily for the pneumatic delivery mechanisms found within. It’s common Raider knowledge that placing an ARC field crate inside the mechanism will send it to Toledo for further study, with the Raider receiving valuable resources in return.\n\nThe field crates themselves are something of a mystery. They can be found all over the Topside, said to be dropped by malfunctioning Probes and Couriers.\n\nExaminations of the pneumatic delivery mechanisms within the Field Depots have led to the speculation that they were constructed during the Exodus efforts to transport materials to and from the Tubes.\n\nShani has been overheard multiple times advocating for the continued use of the Field Depots, as it allows her and other Security staff members to learn more about ARC in general."
             },
             {
                 "id": 3,
                 "name": "The Tubes",
-                "image": "placeholder",
-                "desc": "The network of tunnels spanning the Rust Belt and beyond is known as the Tubes. Raiders use these tunnels to reach the surface by boarding transport pods launched from stations the locals call Slingshots.\n\nEach neighborhood in Toledo has its own Slingshot station, managed by local security and operations teams. Several junctions lie along the Tubes before they reach surface access points."
+                "image": "tubes",
+                "desc": "The network of tunnels spanning the Rust Belt and beyond is known as the Tubes. Raiders use these tunnels to reach the surface by boarding transport pods launched from stations the locals call Slingshots.\n\nEach neighborhood in Toledo has its own Slingshot station, managed by local security and operations teams. Several junctions lie along the Tubes before they reach surface access points.\n\nThe Tubes were originally built during the Exodus construction efforts to enable rapid transport of materials between major sites, linking directly to a network of cargo elevators. Since then, Toledo engineers have integrated them with other types of infrastructure, including civilian metro lines and ventilation air shafts."
             },
             {
                 "id": 4,
                 "name": "Electricity",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "electricity",
+                "desc": "The primary source of electricity in Toledo is solar power. A set of power lines connects the city to a partially repaired solar grid in the western regions of the Rust Belt. Additionally, several rooftop solar panels in Buried City have been integrated into the city's power grid.\n\nTo provide electricity during night-time or outages, the Toledo neighborhoods maintains stockpiles of large batteries. Because the power grid is segmented, different neighborhoods and sectors in Toledo experience varying levels of stability.\n\nA recent uptick in power outages has sparked rumors of sabotage throughout Speranza. So far no one has uncovered any substantial evidence, though some have noticed that Tian Wen has been looking uncharacteristically pleased with herself."
             },
             {
                 "id": 5,
                 "name": "Waterworks",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "waterworks",
+                "desc": "Each neighborhood in Toledo is resposnible for securing its own water source. Several surface-level intakes draw in groundwater and rainwater, channeling it through pumps and pipes into underground cisterns.\n\nThe water quality has always been poor and fluctuating, requiring active filtration to make it safe for consumption. However, a recent pungent smell and suspicious hue led some to believe the water was being contaminated beyond its usual levels.\n\nMost of Toledo's water intakes are located around The Dam, repurposing old infrastructure connected to its once-imposing reservoirs. The primary intake of the neighborhood of Speranza is located near the Flood Access Tunnel; the exact location where multiple barrels of pungent liquids just so happened to be found.\n\nSperanza's water supply was at one point found to be deliberately contaminated. It highlighted the need for alternate sources of drinking water. Celeste's scouts located an underground cistern beneath the Spaceport; connected to the Dam's reservoir through an elaborate network of pipes.\n\nConnecting the cistern to Speranza's water supply provided a temporary relief, allowing Raiders to drink, cook and wash while Shani tracked down those responsible for contaminating the water."
             },
             {
                 "id": 6,
                 "name": "Food Cultivation",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "cultivation",
+                "desc": "Much of Speranza's food is cultivated in makeshift greenhouses, relying on grow lights and what few locations are still exposed to light from the surfaces. Though Celeste has long sought to ramp up food production, the constant threat of even a single failed harvest means she enforces careful rationing of seeds, and diligent conservation of all food produced.\n\nAgricultural research found around The Dam revealed that during the era of Sunrise, a group of ingenuous farmers sought to cultivate a more resilient strain of wheat. Their meticulous research spanned several growing seasons, and involved planting a wide variety of wild seeds in locations of varying drought, salinity, acidity, and exposure to harsh weather.\n\nAfter several seasons of selective breeding, these cultivation researchers attempted  to plant the most promising seed strains in the Hydroponic Domes, diligently documenting their progress in digital archives. According to their early results, they had a real hopes of establishing a large-scale, reliable source of nutrition, potentially transforming society in the Rust Belt and beyond.\n\nTheir research project seems to have come to an abrupt halt when a violent hailstorm shattered the roof of the hydroponic domes; exposing the delicate seedlings to a cold snap that caused them to wilt within a day. While the research notes are riddled with words of unyielding determination, no more experiments were logged after that day.\n\nWhile the Hydroponic Domes were never fully patched up; one researcher thought to store away packets of seeds in an old cryogenic vault in Buried City, in hopes that the budding society might one day develop a sheltered enough location to pick up where the cultivation researchers left off.\n\nThough days are still early, Celeste is cautiously optimistic that the Speranza greenhouses may be able to carry the torch of agricultural progress; cultivating resilient strains of food that could one day shield an entire society from famine and demise.\n\nBy introducing bees into the Speranza greenhouses, researches have already observed improvements in crop quality. While it may take time for the full benefits to emerge, the bees are already making a positive impact. Lance also notes that along with their benefits, the bees have introduced greenhouse workers to the entirely new experience of being stung."
             },
             {
                 "id": 7,
                 "name": "Security",
-                "image": "placeholder",
-                "desc": "Speranza’s Security detail keeps a long-term eye on risks in and around the community. They plan for the unknown, put mitigation measures in place, and deal with immediate threats and hazards. They also make sure that all entrances and exits are secure."
+                "image": "security",
+                "desc": "Speranza’s Security detail keeps a long-term eye on risks in and around the community. They plan for the unknown, put mitigation measures in place, and deal with immediate threats and hazards. They also make sure that all entrances and exits are secure.\n\nSecurity relies on raiders to do patrolling and reconnaissance tasks while topside, gathering or confirming intel. They are rewarded from a collective purse to keep an air of independence, though some still question the reliability of their reports."
             },
             {
                 "id": 8,
                 "name": "The Backyard",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "backyard",
+                "desc": "Nestled in a secluded mountain hollow, the echoed gunshots from the Backyard seem to confuse ARC's sense of direction, creating a rare pocket of open-air safety. Raiders use this practice range to hone their skills, and catch up on some long-overdue stargazing.\n\nThe range allows user to practice on dummy versions of ARC, and even makeshift human targets. Tian Wen has even found a way to repurpose some scavenged Turrets, allowing for a more visceral experience."
             }
         ]
     },
@@ -60,20 +60,20 @@
             {
                 "id": 1,
                 "name": "Speranza",
-                "image": "placeholder",
+                "image": "speranza",
                 "desc": "Colorful and lively, Speranza is the oldest neighborhood of the underground city of Toledo.\n\nIt was originally established as an independent settlement at the start of the Second Wave, when ARC’s return forced settlers underground. Built into subterranean infrastructure and buildings swallowed by sinkholes, it offers a mostly-safe refuge from Topside’s many dangers.\n\nOver the years, as more survivors arrived from the Rust Belt and beyond, the original settlement expanded into the buried remnants of an ancient city, forming the secluded, patchwork neighborhoods of Toledo."
             },
             {
                 "id": 2,
                 "name": "Toledo",
-                "image": "placeholder",
-                "desc": "Nestled deep below the Rust Belt, the underground city of Toledo is made up of a patchwork collection of secluded neighborhoods, known locally as contradas.\n\nThough some infrastructure is shared, most of Toledo’s contrads are separated by distance and rubble; forming isolated communities looking out for their own."
+                "image": "toledo",
+                "desc": "Nestled deep below the Rust Belt, the underground city of Toledo is made up of a patchwork collection of secluded neighborhoods, known locally as contradas.\n\nThough some infrastructure is shared, most of Toledo’s contrads are separated by distance and rubble; forming isolated communities looking out for their own.\n\nThough the secluded neighborhoods are in many ways parallel societies, they've been known to begrudgingly collaborate when absolutely required. Most notably, the extensive Tube network is operated by a disparate network of Slingshots operators spread across the different neighborhoods, and maintenance is performed by mixed engineering crews from all over Toledo."
             },
             {
                 "id": 3,
                 "name": "Black Markets",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "black-markets",
+                "desc": "Black markets are found in the seedy underbelly of Toledo, where rare goods of dubious origin can be purchased. These markets never stay in one place, and may be temporarily found in darkened alleys, dusty pawn shops, and secluded courtyards all over Toledo.\n\nThough no black markets exists within Speranza, many of its inhabitants regularly venture deeper into Toledo to visit markets in other neighborhoods."
             }
         ]
     }

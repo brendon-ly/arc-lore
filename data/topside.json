@@ -6,32 +6,32 @@
             {
                 "id": 1,
                 "name": "Alcantara Dam",
-                "image": "placeholder",
-                "desc": "The Alcantara Power Plant, or The Dam, stands a silent sentinel amidst waterlogged lands. Once a rare lifeline for settlers during the age of Sunrise, it became a shell-scarred battleground during the closing battles of the First Wave.\n\nEven now, these toxic, waterlogged lands remain a hot spot for ARC skirmishes. Between the research buildings, various Dam structures, and the ramshackle hydroponic domes, Raiders know it to be a reliable source of valuable loot."
+                "image": "dam",
+                "desc": "The Alcantara Power Plant, or The Dam, stands a silent sentinel amidst waterlogged lands. Once a rare lifeline for settlers during the age of Sunrise, it became a shell-scarred battleground during the closing battles of the First Wave.\n\nEven now, these toxic, waterlogged lands remain a hot spot for ARC skirmishes. Between the research buildings, various Dam structures, and the ramshackle hydroponic domes, Raiders know it to be a reliable source of valuable loot.\n\nDuring the First Wave, the Alcantara Dam was the site for many of the conflict's most harrowing battles, with scars and structures still pockmarking the area today."
             },
             {
                 "id": 2,
                 "name": "Buried City",
-                "image": "placeholder",
-                "desc": "Long covered in sand dunes, Buried City offers rare insights in life before the Collapse. Strong winds have now uncovered part of its remains, though the ever-shifting dunes can be treacherous and unstable."
+                "image": "buried-city",
+                "desc": "Long covered in sand dunes, Buried City offers rare insights in life before the Collapse. Strong winds have now uncovered part of its remains, though the ever-shifting dunes can be treacherous and unstable.\n\nSigns around the city reveal that it was originally called Marano by its inhabitants, though that name has long since faded into obscurity."
             },
             {
                 "id": 3,
                 "name": "Acerra Spaceport",
-                "image": "placeholder",
+                "image": "spaceport",
                 "desc": "Acerra Spaceport is a majestic testament to humanity’s past ambitions. This is where the Exodus shuttles, vessels of hope and desperation, once roared into the heavens, leaving a beleaguered Earth behind."
             },
             {
                 "id": 4,
                 "name": "The Blue Gate",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "blue-gate",
+                "desc": "Once a steadfast symbol of defiant connection, the Blue Gate now serves as a daunting entryway into perilous mountain ranges. The surrounding valley bears scars both new and old.\n\nThe Tubes network has only recently expanded to reach the gates, requiring the construction of all-new Raider structures to facilitate Raider presence."
             },
             {
                 "id": 5,
                 "name": "Stella Montis",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "stella-montis",
+                "desc": "Carved deep into the mountainside, Stella Montis looms silently over the valley below. Its vast scale hints at some grand intent, but the last occupants seemingly sealed it away from the world, leaving what lies within largely unknown."
             }
         ]
     },
@@ -42,14 +42,14 @@
             {
                 "id": 1,
                 "name": "The Storm",
-                "image": "placeholder",
+                "image": "storm",
                 "desc": "An especially violent sandstorm battered the Rust Belt for days, driving a new influx of refugees to seek shelter in Toledo.\n\nThe most sensible Raiders knew to shelter in place, though others saw a window to rule Topside with impunity.\n\nThe Storm took several days to subside, and damaged a significant portion of Toledo’s topside infrastructure. During this time, ARC seemed as disoriented as most Raiders, with many of its most menacing machines temporarily retreating."
             },
             {
                 "id": 2,
                 "name": "The Tremors",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "tremors",
+                "desc": "Occasional tremors have been observed in the Rust Belt for generations, though usually faint and distant. Over time, they seem to have increased in both frequency and intensity, worry Shani.\n\nA sudden fracture recently devastated The Rust Belt; collapsing several buildings in Toledo and damaging major infrastructure. Data from Shani's LiDAR scanners indicate a major fracture, traced back to the area around the Blue Gate."
             }
         ]
     },
@@ -60,14 +60,14 @@
             {
                 "id": 1,
                 "name": "Cargo Elevators",
-                "image": "placeholder",
+                "image": "cargo-elevators",
                 "desc": "Every Raiders knows the sound. The beeping of an incoming cargo elevator means escape is near. Scattered around the Topside, these elevators allow Raiders to return from the surface without revealing the location of Toledo.\n\nFor safety reasons, all cargo elevators are remotely operated by Security operators, via a patch-board at a control station across the various contradas of Toledo."
             },
             {
                 "id": 2,
                 "name": "Supply Drops",
-                "image": "placeholder",
-                "desc": "As rudimentary as they are effective, Toledo has set up a surprisingly reliable system to send essential supplies to Raiders out in the field. A Raider may request supplies from any Supply Call Station, though the parachutes are visible from far away."
+                "image": "supply-drops",
+                "desc": "As rudimentary as they are effective, Toledo has set up a surprisingly reliable system to send essential supplies to Raiders out in the field. A Raider may request supplies from any Supply Call Station, though the parachutes are visible from far away.\n\nWhile some view these drops as a waste of resources, many Raiders have credited them with saving their skin while in a tight spot."
             }
         ]
     }
