@@ -6,32 +6,32 @@
             {
                 "id": 1,
                 "name": "Celeste",
-                "image": "placeholder",
-                "desc": "“Here's a little secret for you; she collects mugs. I’ve catalogued twenty-three of them so far, and her preferred subset are silly print ones. I keep a stash in the clinic, to be dispensed for when she has a particularly bad day.” - Lance\n\nCeleste was part of a small group that first moved into what was to become Speranza. Steady and reliable, people increasingly turned towards her for guidance and mediation, turning her into a pillar of the fast-growing community.\n\nOverpopulation, political strife, and resource shortages soon became her daily reality. Worst of all, in the absence of ARC, her fellow Raiders began turning on each other."
+                "image": "celeste",
+                "desc": "“Here's a little secret for you; she collects mugs. I’ve catalogued twenty-three of them so far, and her preferred subset are silly print ones. I keep a stash in the clinic, to be dispensed for when she has a particularly bad day.” - Lance\n\nCeleste was part of a small group that first moved into what was to become Speranza. Steady and reliable, people increasingly turned towards her for guidance and mediation, turning her into a pillar of the fast-growing community.\n\nOverpopulation, political strife, and resource shortages soon became her daily reality. Worst of all, in the absence of ARC, her fellow Raiders began turning on each other.\n\n These days, she often clashes with leaders from other Toledo neighborhoods and faces pushback from several civilian petitioners who have their own ideas about how Speranza should be governed.\n\nDespite it all, Celeste still holds out hope  that Raiders can once again unite under a single banner in the fight against ARC, though there are few left that share her dream.\n\nTHE FIRST WAVE\nCeleste was nine years old when the First Wave hit. Left without a home, she soon found her place among a group of Raiders who refused to give up the fight against ARC.\n\nThough she lost many friends along the way, Celeste persevered and, as a teenager, took part in the legendary Battle of Victory Ridge. It was there that the last pocket of ARC was finally defeated, bringing the First Wave to an end.\n\nBattle-hardened and a firm believer that impossible odds can be overcome through sheer determination, Celeste shifted her focus from fighting to building. Speranza quickly became her main focus, but with rapid growth came inevitable challenges."
             },
             {
                 "id": 2,
                 "name": "Shani",
-                "image": "placeholder",
-                "desc": "“People think Celeste is running this place, and they’re not entirely wrong. But what they don’t realize is that without Shani, we’d all be toast. No one knows more about Speranza or ARC than she does.” - Apollo\n\nVigilant, cautious, and dutiful, Shani keeps a near-constant watch on the screens in her room. Officially, she’s tasked with monitoring any Topside threats, as well as operation of the Tubers and all Raider Hatches. In reality, there is little in Speranza that escapes her watchful gaze."
+                "image": "shani",
+                "desc": "“People think Celeste is running this place, and they’re not entirely wrong. But what they don’t realize is that without Shani, we’d all be toast. No one knows more about Speranza or ARC than she does.” - Apollo\n\nVigilant, cautious, and dutiful, Shani keeps a near-constant watch on the screens in her room. Officially, she’s tasked with monitoring any Topside threats, as well as operation of the Tubers and all Raider Hatches. In reality, there is little in Speranza that escapes her watchful gaze.\n\nShani relies on an array of radars, scanners, and makeshift equipment to map out ARC behaviours. However, the machines' penchant for self-optimization makes it a steep uphill battle, leaving her with precious little time to rest, sleep, or take the occasional deep breath.\n\nIn addition to her equipment, Shani also relies on a network of scouts for firsthand intelligence on surface activity. Unlike many Raiders, this select group seldom engages in open combat, relying more on stealth."
             },
             {
                 "id": 3,
                 "name": "Tian Wen",
-                "image": "placeholder",
-                "desc": "“You know, I don’t really remember when she showed up. One day she was just there, holed up behind a deadbolt door, setting up shop.” - Celeste\n\nA technical mastermind with a cut-throat personality, Tian Wen conducts most of her business from behind a bulletproof door, hidden away in a dark alley off the Piazza.\n\nHer mastery in crafting high-quality firearms has earned fame in Speranza and beyond. Rumor has it she doesn’t think too highly of Raiders, yet her trade makes dealing with them an unavoidable reality."
+                "image": "tian-wen",
+                "desc": "“You know, I don’t really remember when she showed up. One day she was just there, holed up behind a deadbolt door, setting up shop.” - Celeste\n\nA technical mastermind with a cut-throat personality, Tian Wen conducts most of her business from behind a bulletproof door, hidden away in a dark alley off the Piazza.\n\nHer mastery in crafting high-quality firearms has earned fame in Speranza and beyond. Rumor has it she doesn’t think too highly of Raiders, yet her trade makes dealing with them an unavoidable reality.\n\nIn addition to running her storefront in Speranza, Tian Wen maintains a quiet influence over Toledo's black market, where many of her more experimental weapons curiosly find their way.\n\nGiven how many Raiders rely on her supplies for their safety, it's possible that Shani chooses to overlook these more dubious dealings, at least for now.\n\nTHE FIRST WAVE\nTian Wen was only a girl during the First Wave of ARC attacks. Her mother, Major Aiva, was a legendary Raider commander who led countless skirmishes in those early battles. When Aiva fell at the Battle of Victory Ridge, Tian Wen was left devastated and alone.\n\nThe unforgiving years that followed taught her a harsh truth: the legacy of a celebrated parent won't keep you fed, and it doesn't take long for the next generation to forget who fought for their safety. That bitter lesson became the foundation of her enduring disdain for Raiders."
             },
             {
                 "id": 4,
                 "name": "Lance",
-                "image": "placeholder",
-                "desc": "“I’ve come across similar models before, though even that’s a rarity. But none of them spoke or carried themselves quite like Lance. I’m not sure what wires got crossed in that metal head of his, but I’d love to find out. Also, he’d fetch a fortune on the black market- but you didn’t hear that from me.” - Tian Wen\n\nAn enigma to Speranzan society- and to some extent himself. Given that he can’t remember his origins- the android Lance runs his famed medical clinic just off the Piazza. It is said that the only thing he can’t cure is the common cold, though that’s never said within his earshot.\n\nWhen it comes to medical matters, Lance is a consummate professional; equally focused while wrapping bandages as he is while picking out bullets with tweezers. When it comes to settling on a name for his clinic, however, his composure tends to fall apart very quickly."
+                "image": "lance",
+                "desc": "“I’ve come across similar models before, though even that’s a rarity. But none of them spoke or carried themselves quite like Lance. I’m not sure what wires got crossed in that metal head of his, but I’d love to find out. Also, he’d fetch a fortune on the black market- but you didn’t hear that from me.” - Tian Wen\n\nAn enigma to Speranzan society- and to some extent himself. Given that he can’t remember his origins- the android Lance runs his famed medical clinic just off the Piazza. It is said that the only thing he can’t cure is the common cold, though that’s never said within his earshot.\n\nWhen it comes to medical matters, Lance is a consummate professional; equally focused while wrapping bandages as he is while picking out bullets with tweezers. When it comes to settling on a name for his clinic, however, his composure tends to fall apart very quickly.\n\nLately, Lane has sought to cultivate a harmonius feng shui in his clinic, hoping it might soothe patients while he dislodges shrapnel and other foreign objects from their bodies. So far, his strategically-placed throw pillows have not had the intended effect."
             },
             {
                 "id": 5,
                 "name": "Apollo",
-                "image": "placeholder",
-                "desc": "“Unlike many here, this isn’t Apollo’s first settlement. He claims to have lived in several, although he is a bit vague on the details. That said, his energy for improvement and his constant cheer do have their uses.” - Shani\n\nApollo runs a store by Speranza’s Piazza, selling primarily makeshift grenades and gadgets. Most of his wares are of his own design, and though they may seem rudimentary to the untrained eye, they are thoroughly filed-tested by the most daring Raiders."
+                "image": "apollo",
+                "desc": "“Unlike many here, this isn’t Apollo’s first settlement. He claims to have lived in several, although he is a bit vague on the details. That said, his energy for improvement and his constant cheer do have their uses.” - Shani\n\nApollo runs a store by Speranza’s Piazza, selling primarily makeshift grenades and gadgets. Most of his wares are of his own design, and though they may seem rudimentary to the untrained eye, they are thoroughly filed-tested by the most daring Raiders.\n\nWhen major expansion projects are initiated, such as freeing up new living space or expanding the tunnel network, he's often designated as one of the foremen; doubly so if indiscriminate demolition is required.\n\nAn avid reader, Apollo enjoys a hard-boiled detective novel. Some say he puts himself at a constant risk of concussion just so he can forget the grand reveals."
             }
         ]
     },
@@ -42,20 +42,20 @@
             {
                 "id": 1,
                 "name": "Raiders",
-                "image": "placeholder",
+                "image": "raiders",
                 "desc": "With ARC’s lethal machines ruling the surface, only a handful of survivors dare venture topside. With a combination of unwavering boldness and quick thinking, they are the only source of rare goods for most inhabitants of Toledo.\n\nAs Toledo grew into secluded, isolated neighborhoods, Raiders have grown increasingly possessive and hostile to one another. While outside the reach of Toledo’s security, many have been known to settle bitter rivalries by force."
             },
             {
                 "id": 2,
                 "name": "Blue Gate Nomads",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "nomads",
+                "desc": "The signs of an unknown group of survivors were spotted around the Blue Gate; recongized by their flags and makeshift decorations. They were found to have been involved in bringing down the ARC Deforester, though their methods seem to have left the husks in a surprisingly pristine state."
             },
             {
                 "id": 3,
                 "name": "OTTM",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "ottm",
+                "desc": "The Official Toledo Tubes Management, or OTTM, is a thuggish organization that controls several critical junctions in the Tubes network running through Toledo and extending outward into the world.\n\nThe city of Toledo does not possess a central government to proide any official sanctions, and the OTTM possesses enough influnece and manpower to fend of any would-be challengers to its authority. The Speranza Slingshots pass through a junction controlled by the OTTM, and Celeste must frequently pay tribute to maintain the Raiders' access to the Tubes in Speranza.\n\nIn an effort to escape the constant extortion by the OTTM, Celeste enlisted Raider assistance to retrieve a dead drop intended for a high-ranking member of the organization.\n\nFrom its contents, she discovered that despite their threats and projected strength, the OTTM's grip on the Tubes was much weaker than they let on. The dead drop hinted at tangible evidence that could expose their vulnerability. If discovered, it might be enough to rally even a single neighborhood into mounting a succssful resistance and overthrowing the OTTM's control.\n\nWith the evidence acquired at the Spaceport, Celeste called a tense meeting with the OTTM. The representatives arrived with smug expressions, expecting yet another tribute for continued use of 'their' Tubes. They left, however, with clammy hands and worried faces.\n\nThe people of Speranza aren't exactly sure how Celeste secured free passage for the Speranza Slingshots, but a number of wild stories circulate around the local cantinas. Some speak of epic gunfights, others of romantic seduction, and a few whisper of infiltration and sabotage. One thing is certain: Celeste is a determined leader. She will do whatever it takes to ensure her Raiders can carry out their work without interference."
             }
         ]
     }

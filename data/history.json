@@ -6,8 +6,8 @@
             {
                 "id": 1,
                 "name": "The Collapse",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "collapse",
+                "desc": "A tale told mostly through flooded wastes and overgrown ruins, the Collapse is said to have happened many generations ago, when devastating floods, scorching fires, and earthquakes conspired to rid Earth of her inhabitants.\n\nOnly scattered societies are said to have remained, though after generations of darkness and decay, their tales have merged with legends and lies.\n\nWhile most evidence of life before the Collapse was lost in devastation, small pockets of preservation still offer a glimpse into the world before.\n\nHere in the Rust Belt, shifting sand dunes long covered the port city of Marano, creating a natural time capsule that's been known to astonish and confuse Raiders in equal measure."
             }
         ]
     },
@@ -18,14 +18,14 @@
             {
                 "id": 1,
                 "name": "The Exodus",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "exodus",
+                "desc": "It is said that when the world collapsed, a handful of valorous survivors managed to escape the destruction into outer space; boarding marvels of technology long lost to the devastation.\n\nNot much is known about how they managed to achieve such feats, and what little technology survived is highly prized within Toledo."
             },
             {
                 "id": 2,
                 "name": "Launch Towers",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "launch-towers",
+                "desc": "Visible from miles away, the Launch Towers are a colossal monument to the fabled Exodus. They mark the end of what must have been an era of unimaginable technological progress; an era nearly impossible to picture for those who gaze upon the towers today."
             }
         ]
     },
@@ -36,20 +36,20 @@
             {
                 "id": 1,
                 "name": "Sunrise",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "sunrise",
+                "desc": "Alive in the memories of the few very old still around, the era of Sunrise feels beyond belief to those born underground. Following generations of darkness after the Collapse, the era of Sunrise was marked by signs of restoration of the planet's ecology, as well as the rediscovery of old technology and even some degree of organized society.\n\nHere in the Rust Belt, settlers began to gather around the dormant Alcantara Dam, where they built the first hydroponic domes. These domes allowed them to consistently produce food, and even make use of the old solar panels for energy.\n\nA time of growing optimism, some dared declare that the worst must surely be behind us- until machines started coming down from the skies."
             },
             {
                 "id": 2,
                 "name": "Settlers",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "settlers",
+                "desc": "During the era of Sunrise, a community of survivors settled around the Alcantara Dam, managed to achieve some semblance of organized society. Through trial, error, and the discovery of old documents, they managed to make some progress in areas such as food cultivation, construction methods, and the creation of rudimentary weapons.\n\nWhen ARC's machines started falling from the skies during the First Wave, the settlers around The Dam banded together to form the first Raiders and defeated ARC, though at the cost of many lives. With most of their technological progress destroyed, when the Second Wave hit they opted to move underground for their own protection; settling in what would grow to be the sprawling city of Toledo."
             },
             {
                 "id": 3,
                 "name": "Hydroponic Domes",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "hydro-domes",
+                "desc": "Situated in the fetid swamp by the Alcantara Dam, the hydroponic domes are both makeshift and more recent than most other structures in the area. It is said to have been built during the era of Sunries; and optimistic experiment to turn society less reliant on gathered roots, mushrooms, and berries.\n\nUnfortunately, its roof seems to have been shattered in multiple places, exposing any crops within to devastating cold snaps- and, these days, a diverse selection of wandering ARC machines.\n\nNotes found in the domes' data archives revealed that during the era of Sunrise, a group of cultivation researchers built the site in an attempt to develop a new, more resilient strain of wheat. Unfortunately, the experiment was halted after a devastating hailstorm caused the fragile seedlings to wither."
             }
         ]
     },
@@ -60,32 +60,32 @@
             {
                 "id": 1,
                 "name": "The First Wave",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "first-wave",
+                "desc": "Even after all these years, the harrowing tales of the First Wave are burnt into the memories of those who lived to tell the tale.\n\nJust as the world seemed to recover from a devastating ecological collapse, lethal machines started falling from the skies. Any semblance of progress and stability was wiped.\n\nThough ruthless, machines during the First Wave were comparitively rudimentary, and the first Raiders soon found ways to target their weaknesses. They built an extensive network of outpost and defensive structures to support them in their resistance, many of which can be seen around Topside to this day.\n\nThe first Raiders fought for over a decade to beat back the machines. Through a series of daring battles and harrowing losses, culminating in the hard-fought Battle of Victory Ridge, ARC was eventually driven from The Rust Belt; leaving behind trails of destruction as well as scattered husks. Though the battles earned the survivors several years of respite, a more resilient and refined generation ARC would eventually return: the Second Wave."
             },
             {
                 "id": 2,
                 "name": "Barons",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "barons",
+                "desc": "The pinnacele of ARC's machines during the First Wave, the Baron was a powerful six-legged mechanical walker. With its imposing appearance, powerful attacks, and surprisingly adaptive behavior, the Baron was a formidable foe for First Wave Raiders.\n\nAfter the last Baron was brought down during the First Wave, they were never seen again in the Rust Belt, though stories from afar claim there are still Barons roaming desolate parts of Calabretta."
             },
             {
                 "id": 3,
                 "name": "Raider Camps",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "raider-camps",
+                "desc": "When ARC returned during the Second Wave, society was forced underground, and the camps were all but abandoned. To some Raiders, it's considered blasphemous to scavenge from Raider camps, though others are happy to dismiss such reservations at the prospect of battle-tested gear.\n\nIn recent times, Shani has led an effort to re-establish surface outposts, serving now as discreet supply stashes and cover from fire, rather than long-term lodging."
             },
             {
                 "id": 4,
                 "name": "The Battle Of Victory Ridge",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "victory-ridge",
+                "desc": "The Victory Ridge is a rocky outcrop west of the Alcantara Dam. It was the scene of a fierce battle between ARC and organized Raiders fighting from elevated positions along the ridge. The battle marked the end of the First Wave.\n\nAfter a decade of ARC onslaught, scattered raider groups united under the brilliant leadership of Major Aiva, and ARC was finally defeated. The battle raged for several days, littering the landscape with smoking ARC husks and fallen Raiders.\n\nThe cost of the victory was devastating. Most who fought at Victory Ridge never returned home, and those who did carried wounds both visible and hidden. Many never truly recovered.\n\nAlthough a victory against ARC, the Battle of Victory Ridge shattered the unity that had made victory possible. Survivors blamed each other for tactical failures, and feuded over the spoils of war. The unity that had defeated ARC crumbled into bitter rivalries. A monument commemorating the victory was built soon after, but was later vandalized by disillusioned Raiders."
             },
             {
                 "id": 5,
                 "name": "Major Aiva",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "major-aiva",
+                "desc": "Major Aiva was a major figure in the First Wave, and Tian Wen's mother.\n\nMuch like her daughter, Major Aiva was a whip-smart, tactical mastermind. A fearless leader in the original ARC resistance, Aiva led several successful skirmishes against the machines before ultimately perishing in the final battle of the First Wave, the Battle of Victory Ridge. As with many other important figures from the First Wave, her name slowly faded into obscurity- but Tian Wen still remembers."
             }
         ]
     },
@@ -96,8 +96,8 @@
             {
                 "id": 1,
                 "name": "The Second Wave",
-                "image": "placeholder",
-                "desc": "placeholder"
+                "image": "second-wave",
+                "desc": "Raiders sometimes use the term Second Wave to refer to the current wave of ARC incursions, in which a new generation of improved ARC machines started descending onto Earth. These are significantly improved compared to the rudimentary machines of the First Wave, both in their tactics and in their physical designs.\n\nFor much of the Second Wave, ARC was only fought during short forays topside, with Raiders under constant fire as they roamed around in hostile territory.  More recently, however,  efforts have been made to establish new outposts on the surface; providing a degree of protection and support not seen since the First Wave."
             }
         ]
     }
