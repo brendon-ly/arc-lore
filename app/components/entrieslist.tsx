@@ -39,7 +39,7 @@ export default async function EntriesList({name}: EntriesProps) {
 
 
     if (parts.length > 1) return(
-        <ul className="mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto h-112">
+        <ul className="h-123 mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto no-scrollbar">
             {activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
                     <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${slugify(entry.name)}`}>{entry.name}</Link>
@@ -49,7 +49,7 @@ export default async function EntriesList({name}: EntriesProps) {
     )
     
     return (
-        <ul className="mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto h-112">
+        <ul className="h-123 mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto no-scrollbar">
             {entriesCheck ?
             activeLore?.entries.map((entry) => (
                 <li key={entry.id}>

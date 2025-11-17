@@ -35,7 +35,7 @@ export default async function EntryContent({name}: Props) {
     const entry = activeLore?.entries.find(e => slugify(e.name) === ent);
 
     return (
-        <div className="absolute ml-160 mt-4 mr-99 pl-5 h-113 overflow-auto">
+        <div className="absolute ml-159 mt-4 mr-99 pl-5">
             <div className="font-bold uppercase text-3xl">{entry?.name}</div>
             {ent ?
               <Image
@@ -48,7 +48,7 @@ export default async function EntryContent({name}: Props) {
             :
               <div></div>                       //Eventually for subcategory descriptions
             }
-            <div className="mt-4 whitespace-pre-line"><p>{entry?.desc}</p></div>
+            <div className="h-70 mt-4 pr-5 whitespace-pre-line overflow-auto"><p>{entry?.desc}</p></div>
         </div>
     )
 }

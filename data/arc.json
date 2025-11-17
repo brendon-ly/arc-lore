@@ -96,13 +96,13 @@
             {
                 "id": 1,
                 "name": "ARC Probe",
-                "image": "placeholder",
+                "image": "probe",
                 "desc": "placeholder"
             },
             {
                 "id": 2,
                 "name": "ARC Courier",
-                "image": "placeholder",
+                "image": "courier",
                 "desc": "placeholder"
             },
             {
@@ -120,7 +120,7 @@
             {
                 "id": 1,
                 "name": "ARC",
-                "image": "placeholder",
+                "image": "arc",
                 "desc": "placeholder"
             }
         ]
