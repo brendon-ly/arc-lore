@@ -7,23 +7,29 @@
                 "id": 1,
                 "name": "Alcantara Dam",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "The Alcantara Power Plant, or The Dam, stands a silent sentinel amidst waterlogged lands. Once a rare lifeline for settlers during the age of Sunrise, it became a shell-scarred battleground during the closing battles of the First Wave.\n\nEven now, these toxic, waterlogged lands remain a hot spot for ARC skirmishes. Between the research buildings, various Dam structures, and the ramshackle hydroponic domes, Raiders know it to be a reliable source of valuable loot."
             },
             {
                 "id": 2,
                 "name": "Buried City",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Long covered in sand dunes, Buried City offers rare insights in life before the Collapse. Strong winds have now uncovered part of its remains, though the ever-shifting dunes can be treacherous and unstable."
             },
             {
                 "id": 3,
                 "name": "Acerra Spaceport",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Acerra Spaceport is a majestic testament to humanity’s past ambitions. This is where the Exodus shuttles, vessels of hope and desperation, once roared into the heavens, leaving a beleaguered Earth behind."
             },
             {
                 "id": 4,
                 "name": "The Blue Gate",
+                "image": "placeholder",
+                "desc": "placeholder"
+            },
+            {
+                "id": 5,
+                "name": "Stella Montis",
                 "image": "placeholder",
                 "desc": "placeholder"
             }
@@ -37,7 +43,7 @@
                 "id": 1,
                 "name": "The Storm",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "An especially violent sandstorm battered the Rust Belt for days, driving a new influx of refugees to seek shelter in Toledo.\n\nThe most sensible Raiders knew to shelter in place, though others saw a window to rule Topside with impunity.\n\nThe Storm took several days to subside, and damaged a significant portion of Toledo’s topside infrastructure. During this time, ARC seemed as disoriented as most Raiders, with many of its most menacing machines temporarily retreating."
             },
             {
                 "id": 2,
@@ -55,13 +61,13 @@
                 "id": 1,
                 "name": "Cargo Elevators",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Every Raiders knows the sound. The beeping of an incoming cargo elevator means escape is near. Scattered around the Topside, these elevators allow Raiders to return from the surface without revealing the location of Toledo.\n\nFor safety reasons, all cargo elevators are remotely operated by Security operators, via a patch-board at a control station across the various contradas of Toledo."
             },
             {
                 "id": 2,
                 "name": "Supply Drops",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "As rudimentary as they are effective, Toledo has set up a surprisingly reliable system to send essential supplies to Raiders out in the field. A Raider may request supplies from any Supply Call Station, though the parachutes are visible from far away."
             }
         ]
     }

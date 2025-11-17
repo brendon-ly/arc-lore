@@ -35,7 +35,7 @@ export default async function EntryContent({name}: Props) {
     const entry = activeLore?.entries.find(e => slugify(e.name) === ent);
 
     return (
-        <div className="absolute ml-160 mt-4 mr-99 pl-5">
+        <div className="absolute ml-160 mt-4 mr-99 pl-5 h-113 overflow-auto">
             <div className="font-bold uppercase text-3xl">{entry?.name}</div>
             {ent ?
               <Image

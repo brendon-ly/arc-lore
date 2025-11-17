@@ -13,73 +13,79 @@
                 "id": 2,
                 "name": "Wasp",
                 "image": "wasp",
-                "desc": "placeholder"
+                "desc": "The Wasp is a small, thruster-power drone, flying in tidy patrols with other Wasps and the occasional Hornet. When engaged they switch to erratic flight patterns, making them a challenging target. They are equipped with light guns, and seem to actively scan for potential threats, sometimes mistaking humanoid statues for Raiders.\n\nThe Wasp’s thrusters are exposed and unarmored, giving practiced Raiders a surefire way to send them crashing down."
             },
             {   
                 "id": 3,
                 "name": "Hornet",
                 "image": "hornet",
-                "desc": "placeholder"
+                "desc": "The Hornet is a small flying drone. Equipped with protective armor on its front side. It sports an electric shock-weapon that stuns and damages its targets.\n\nIt’s thought to be designed as an enhanced patrol unit, working with Wasps to neutralize immediate and potential threats to probing sites and other machines.\n\nLike the Wasp damaging its thruster inhibits its flying capabilities. However, since the front thrusters are covered in armor, it takes a steady hand and skilled shot to reach them."
             },
             {
                 "id": 4,
                 "name": "Pop",
                 "image": "pop",
-                "desc": "placeholder"
+                "desc": "The Pop is a small unarmored rolling machine; often compared to the Fireball. It’s a quick impulsive enemy that often roams in swarms.\n\nThe Pop seems to have little regard for its own safety; carrying an explosive charge that “pops” upon impact, scorching any Raider that lets it get too close"
             },
             {
                 "id": 5,
                 "name": "Fireball",
                 "image": "fireball",
-                "desc": "placeholder"
+                "desc": "The Fireball is a fast-moving, ball-shaped ARC machine, usually spotted rolling around indoor areas. It spews fire at any perceived threat in its vicinity, roasting anyone not made out of fire-resistant materials.\n\nWith its speed and flame-throwing capabilities, it can cause great trouble for Raiders; in particular when encountered in groups or alongside Ticks."
             },
             {
                 "id": 6,
                 "name": "Tick",
                 "image": "tick",
-                "desc": "placeholder"
+                "desc": "The bane of anyone who values their face-adjacent personal space, the Tick is a small, spider-like machine that leaps at Raiders, munching away at whatever exposed skin it can find. It is predominantly found indoors, crawling on walls or ceilings.\n\nThe Tick is a relentless, parasitic creature that often attacks in small groups. While individual Ticks can be easily swatted off, hordes of them are another matter entirely."
             },
             {
                 "id": 7,
                 "name": "Turret",
                 "image": "turret",
-                "desc": "placeholder"
+                "desc": "The crude, stationary Turret can be found in buildings all over the Rust Belt. The unit is equipped with a sweeping scanner and a gun capable of unleashing barrages of bullets.\n\nAlthough a nuisance, the Turret scanner emits visible light, allowing them to be avoided by attentive Raiders. It is also not particularly hard to destroy if spotted in time."
             },
             {
-                "id": 8,
-                "name": "Rocketeer",
-                "image": "rocketeer",
-                "desc": "placeholder"
+               "id": 8,
+                "name": "Sentinel",
+                "image": "sentinel",
+                "desc": "The Sentinel is a medium unarmored turret ARC that sits atop buildings and ledges. It is always found outside and often in high locations overseeing an open area. Sentinels have a small vulnerable capsule attached to the rear of its swiveling arm." 
             },
             {
                 "id": 9,
-                "name": "Leaper",
-                "image": "leaper",
-                "desc": "placeholder"
+                "name": "Rocketeer",
+                "image": "rocketeer",
+                "desc": "Looming grimly in the skies, the Rocketeer is a large, heavily-armored, long range artillery machine. It dominates open spaces with its powerful missile launchers. It can target Raiders from afar, creating hazardous zones that force Raiders to stay on the move or seek cover.\n\nARC seems to station Rocketeers in key areas; guarding high-threat locations, or just roaming and making life miserable for Raiders. They are able to eliminate fortified human resistance points in otherwise hard-to-reach locations.\n\nLike the Wasp and the Hornet, it sports thrusters to stay airborne. While these thrusters are technically weak spots, they are large and take a significant amount of firepower to destroy."
             },
             {
                 "id": 10,
-                "name": "Bastion",
-                "image": "bastion",
-                "desc": "placeholder"
+                "name": "Leaper",
+                "image": "leaper",
+                "desc": "The Leaper is an agile, four-legged brute, often found stomping around open areas. This ARC is equipped with a powerful shockwave pulse that hits anyone nearby, and can leap at Raiders across astonishing distances. Historically, most Raiders have learned to avoid it altogether.\n\nLeapers are commonly found in high-risk areas, guarding valuable objectives or patrolling alongside smaller, quicker enemies, thus creating layered threats that can be hard to deal with."
             },
             {
                 "id": 11,
-                "name": "Bombardier",
-                "image": "bombardier",
-                "desc": "placeholder"
+                "name": "Bastion",
+                "image": "bastion",
+                "desc": "Covered in thick plating, the Bastion is a fortress on legs. While it may be slow, it absolutely dominates wherever it patrols with heavy gatling-gun fire; turning anyone who gets in its way into Swiss cheese.\n\nBased on Raider observations of its behavior, the Bastion is believed to be deployed where ARC detects potential resource deposits worth defending at all costs."
             },
             {
                 "id": 12,
-                "name": "Spotter",
-                "image": "spotter",
-                "desc": "placeholder"
+                "name": "Bombardier",
+                "image": "bombardier",
+                "desc": "Several theories exist as to how and why ARC deploys its Bombardiers, though all agree that it is a lethal piece of machinery that has sent countless Raiders to the infirmary."
             },
             {
                 "id": 13,
+                "name": "Spotter",
+                "image": "spotter",
+                "desc": "The Spotter will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them.\n\nIf both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away."
+            },
+            {
+                "id": 14,
                 "name": "Queen",
                 "image": "queen",
-                "desc": "placeholder"
+                "desc": "The largest of the ARC. Only found guarding the Harvester during the relevant Event. Incredibly durable and lethal."
             }
         ]
     },
@@ -102,7 +108,7 @@
             {
                 "id": 3,
                 "name": "ARC Surveyor",
-                "image": "placeholder",
+                "image": "surveyor",
                 "desc": "placeholder"
             }
         ]

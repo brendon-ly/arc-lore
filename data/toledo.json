@@ -13,13 +13,13 @@
                 "id": 2,
                 "name": "Field Depots",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Field Depots have been set up all around Topside, primarily for the pneumatic delivery mechanisms found within. It’s common Raider knowledge that placing an ARC field crate inside the mechanism will send it to Toledo for further study, with the Raider receiving valuable resources in return.\n\nThe field crates themselves are something of a mystery. They can be found all over the Topside, said to be dropped by malfunctioning Probes and Couriers."
             },
             {
                 "id": 3,
                 "name": "The Tubes",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "The network of tunnels spanning the Rust Belt and beyond is known as the Tubes. Raiders use these tunnels to reach the surface by boarding transport pods launched from stations the locals call Slingshots.\n\nEach neighborhood in Toledo has its own Slingshot station, managed by local security and operations teams. Several junctions lie along the Tubes before they reach surface access points."
             },
             {
                 "id": 4,
@@ -43,7 +43,7 @@
                 "id": 7,
                 "name": "Security",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Speranza’s Security detail keeps a long-term eye on risks in and around the community. They plan for the unknown, put mitigation measures in place, and deal with immediate threats and hazards. They also make sure that all entrances and exits are secure."
             },
             {
                 "id": 8,
@@ -61,13 +61,13 @@
                 "id": 1,
                 "name": "Speranza",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Colorful and lively, Speranza is the oldest neighborhood of the underground city of Toledo.\n\nIt was originally established as an independent settlement at the start of the Second Wave, when ARC’s return forced settlers underground. Built into subterranean infrastructure and buildings swallowed by sinkholes, it offers a mostly-safe refuge from Topside’s many dangers.\n\nOver the years, as more survivors arrived from the Rust Belt and beyond, the original settlement expanded into the buried remnants of an ancient city, forming the secluded, patchwork neighborhoods of Toledo."
             },
             {
                 "id": 2,
                 "name": "Toledo",
                 "image": "placeholder",
-                "desc": "placeholder"
+                "desc": "Nestled deep below the Rust Belt, the underground city of Toledo is made up of a patchwork collection of secluded neighborhoods, known locally as contradas.\n\nThough some infrastructure is shared, most of Toledo’s contrads are separated by distance and rubble; forming isolated communities looking out for their own."
             },
             {
                 "id": 3,
