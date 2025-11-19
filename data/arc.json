@@ -7,19 +7,19 @@
                 "id": 1,
                 "name": "Snitch",
                 "image": "snitch",
-                "desc": "Pesky and vigilant, the Snitch is an unarmed reconnaissance drone, equipped with an advanced scanning technology. They are frequently found patrolling strategic areas or scouting ahead for other enemy units. If it detects any human threat, it calls in reinforcements from orbit.\n\nThe ability to call in reinforcements make Snitches a high-risk target for Raiders who want to avoid escalating encounters. However, some Raiders have been known to intentionally aggravate it in a bid to conveniently harvest Wasp and Hornet Drivers."
+                "desc": "Pesky and vigilant, the Snitch is an unarmed reconnaissance drone, equipped with an advanced scanning technology. They are frequently found patrolling strategic areas or scouting ahead for other enemy units. If it detects any human threat, it calls in reinforcements from orbit.\n\nThe purpose of the Snitch seems to be to uphold communication networks and coordinate orbital drops. Shani refers to them as ARC's 'eyes in the sky': calling in reinforcements and maintaining operational awareness.\n\nThe ability to call in reinforcements make Snitches a high-risk target for Raiders who want to avoid escalating encounters. However, some Raiders have been known to intentionally aggravate it in a bid to conveniently harvest Wasp and Hornet Drivers.\n\nThe Snitch Scanner, the stand-out component inside this drone, has been repurposed by many a Raider. Most notably, it triggers upon being thrown, calling in reinforcements that target any perceived threats in the Scanner's vicinity."
             },
             {
                 "id": 2,
                 "name": "Wasp",
                 "image": "wasp",
-                "desc": "The Wasp is a small, thruster-power drone, flying in tidy patrols with other Wasps and the occasional Hornet. When engaged they switch to erratic flight patterns, making them a challenging target. They are equipped with light guns, and seem to actively scan for potential threats, sometimes mistaking humanoid statues for Raiders.\n\nThe Wasp’s thrusters are exposed and unarmored, giving practiced Raiders a surefire way to send them crashing down."
+                "desc": "The Wasp is a small, thruster-power drone, flying in tidy patrols with other Wasps and the occasional Hornet. When engaged they switch to erratic flight patterns, making them a challenging target. They are equipped with light guns, and seem to actively scan for potential threats, sometimes mistaking humanoid statues for Raiders.\n\nWasps are often observed patrolling the skies in predictable patterns, seemingly serving as the first line of security for ARC's probing and extraction operations. They scan for any human activity that could interfere with their operations, and seem drawn to areas with regular Raider activity.\n\nThe Wasp’s thrusters are exposed and unarmored, giving practiced Raiders a surefire way to send them crashing down.\nWhile the innards of the drone are fairly simple, its central drive and power unit are worth tearing out. Raiders have shot at it for a makeshift explosive, and various tinkerers of Toledo have been known to use it to craft more advanced contraptions.\n\nA Snitch can call in additional Wasps from orbit, posing a surprise threat to inexperienced Raiders - or a treasure trove of Wasp Drivers for those who come prepared."
             },
             {   
                 "id": 3,
                 "name": "Hornet",
                 "image": "hornet",
-                "desc": "The Hornet is a small flying drone. Equipped with protective armor on its front side. It sports an electric shock-weapon that stuns and damages its targets.\n\nIt’s thought to be designed as an enhanced patrol unit, working with Wasps to neutralize immediate and potential threats to probing sites and other machines.\n\nLike the Wasp damaging its thruster inhibits its flying capabilities. However, since the front thrusters are covered in armor, it takes a steady hand and skilled shot to reach them."
+                "desc": "The Hornet is a small flying drone. Equipped with protective armor on its front side. It sports an electric shock-weapon that stuns and damages its targets.\n\nIt’s thought to be designed as an enhanced patrol unit, working with Wasps to neutralize immediate and potential threats to probing sites and other machines.\n\nLike the Wasp damaging its thruster inhibits its flying capabilities. However, since the front thrusters are covered in armor, it takes a steady hand and skilled shot to reach them.\n\nThe Hornet Driver is a useful part of the drone's internals. It's speculated by Apollo to control the machine's behavior, and produce the electric shocks for its weapons. Throwing a Hornet Driver at a foe causes it to immediately discharge, stunning the target."
             },
             {
                 "id": 4,
@@ -37,55 +37,61 @@
                 "id": 6,
                 "name": "Tick",
                 "image": "tick",
-                "desc": "The bane of anyone who values their face-adjacent personal space, the Tick is a small, spider-like machine that leaps at Raiders, munching away at whatever exposed skin it can find. It is predominantly found indoors, crawling on walls or ceilings.\n\nThe Tick is a relentless, parasitic creature that often attacks in small groups. While individual Ticks can be easily swatted off, hordes of them are another matter entirely."
+                "desc": "The bane of anyone who values their face-adjacent personal space, the Tick is a small, spider-like machine that leaps at Raiders, munching away at whatever exposed skin it can find. It is predominantly found indoors, crawling on walls or ceilings.\n\nThe Tick is a relentless, parasitic creature that often attacks in small groups. While individual Ticks can be easily swatted off, hordes of them are another matter entirely.\n\nLance used to collect destroyed Ticks 'because they are cute', hanging them from rafters and as ornaments in plants. He was talked out of this habit when children refused to enter his clinic."
             },
             {
                 "id": 7,
                 "name": "Turret",
                 "image": "turret",
-                "desc": "The crude, stationary Turret can be found in buildings all over the Rust Belt. The unit is equipped with a sweeping scanner and a gun capable of unleashing barrages of bullets.\n\nAlthough a nuisance, the Turret scanner emits visible light, allowing them to be avoided by attentive Raiders. It is also not particularly hard to destroy if spotted in time."
+                "desc": "The crude, stationary Turret can be found in buildings all over the Rust Belt. The unit is equipped with a sweeping scanner and a gun capable of unleashing barrages of bullets.\n\nIt is speculated that Turrets deploy and mount themselves autonomously, though it is unknown to what extent. What is clear though is that they are spread in generous numbers and force Raiders to be constantly on guard.\n\nAlthough a nuisance, the Turret scanner emits visible light, allowing them to be avoided by attentive Raiders. It is also not particularly hard to destroy if spotted in time."
             },
             {
                "id": 8,
                 "name": "Sentinel",
                 "image": "sentinel",
-                "desc": "The Sentinel is a medium unarmored turret ARC that sits atop buildings and ledges. It is always found outside and often in high locations overseeing an open area. Sentinels have a small vulnerable capsule attached to the rear of its swiveling arm." 
+                "desc": "The Sentinel's light plating leaves it relatively exposed, but it can be challenging for Raider to get close enough for a clean shot. Learning how to approach a Sentinel with going down oneself is a risky endeavor." 
             },
             {
                 "id": 9,
                 "name": "Rocketeer",
                 "image": "rocketeer",
-                "desc": "Looming grimly in the skies, the Rocketeer is a large, heavily-armored, long range artillery machine. It dominates open spaces with its powerful missile launchers. It can target Raiders from afar, creating hazardous zones that force Raiders to stay on the move or seek cover.\n\nARC seems to station Rocketeers in key areas; guarding high-threat locations, or just roaming and making life miserable for Raiders. They are able to eliminate fortified human resistance points in otherwise hard-to-reach locations.\n\nLike the Wasp and the Hornet, it sports thrusters to stay airborne. While these thrusters are technically weak spots, they are large and take a significant amount of firepower to destroy."
+                "desc": "Looming grimly in the skies, the Rocketeer is a large, heavily-armored, long range artillery machine. It dominates open spaces with its powerful missile launchers. It can target Raiders from afar, creating hazardous zones that force Raiders to stay on the move or seek cover.\n\nLike the Wasp and the Hornet, it sports thrusters to stay airborne. While these thrusters are technically weak spots, they are large and take a significant amount of firepower to destroy.\n\nThough its devastating blasts have sent many an overly-bold Raider to the clinic, increased firepower and clever tactics have allowed some to take the Rocketeers down."
             },
             {
                 "id": 10,
                 "name": "Leaper",
                 "image": "leaper",
-                "desc": "The Leaper is an agile, four-legged brute, often found stomping around open areas. This ARC is equipped with a powerful shockwave pulse that hits anyone nearby, and can leap at Raiders across astonishing distances. Historically, most Raiders have learned to avoid it altogether.\n\nLeapers are commonly found in high-risk areas, guarding valuable objectives or patrolling alongside smaller, quicker enemies, thus creating layered threats that can be hard to deal with."
+                "desc": "The Leaper is an agile, four-legged brute, often found stomping around open areas. It is equipped with a powerful shockwave pulse that hits anyone nearby, and can leap at Raiders across astonishing distances. Historically, most Raiders have learned to avoid it altogether.\n\nLeapers are commonly found in high-risk areas, guarding valuable objectives or patrolling alongside smaller, quicker enemies, thus creating layered threats that can be hard to deal with.\n\nAfter years of gathering intel, constructing outposts, and regaining the faintest semblance of unity, the Leaper is no longer considered the invincible foe it once was. Though still a formidable enemy, the Leaper's Pulse Units can now occassionally be spotted decorating Raider Dens as a trophy."
             },
             {
                 "id": 11,
                 "name": "Bastion",
                 "image": "bastion",
-                "desc": "Covered in thick plating, the Bastion is a fortress on legs. While it may be slow, it absolutely dominates wherever it patrols with heavy gatling-gun fire; turning anyone who gets in its way into Swiss cheese.\n\nBased on Raider observations of its behavior, the Bastion is believed to be deployed where ARC detects potential resource deposits worth defending at all costs."
+                "desc": "Covered in thick plating, the Bastion is a fortress on legs. While it may be slow, it absolutely dominates wherever it patrols with heavy gatling-gun fire; turning anyone who gets in its way into Swiss cheese.\n\nBased on Raider observations of its behavior, the Bastion is believed to be deployed where ARC detects potential resource deposits worth defending at all costs.\n\nIt is much easier to try hampering the Bastion's movement by destroying its legs, which may also help in getting clear shots at its unplated back."
             },
             {
                 "id": 12,
                 "name": "Bombardier",
                 "image": "bombardier",
-                "desc": "Several theories exist as to how and why ARC deploys its Bombardiers, though all agree that it is a lethal piece of machinery that has sent countless Raiders to the infirmary."
+                "desc": "The Bombardier is an imposing slugger, seemingly sharing a strong kinship with the Bastion, albeit with a distinct signature mayhem. It will try to flush Raiders out of cover with heavy mortar fire.\n\nSeveral theories exist as to how and why ARC deploys its Bombardiers, though all agree that it is a lethal piece of machinery that has sent countless Raiders to the infirmary."
             },
             {
                 "id": 13,
                 "name": "Spotter",
                 "image": "spotter",
-                "desc": "The Spotter will point a laser at any Raider in line-of-sight so the Bombardier can accurately target them.\n\nIf both Spotters are destroyed a new pair will respawn. When the Bombardier is destroyed the Spotters will fly away."
+                "desc": "Despite its size, the Spotter can take considerable punishment. Combined with its unpredictable flight patterns, it's a frustrating opponent to pin down.\n\nHunting Spotters creates commotion and might draw the attention of opportunistic Raiders looking to eliminate the competition."
             },
             {
                 "id": 14,
                 "name": "Queen",
                 "image": "queen",
                 "desc": "The largest of the ARC. Only found guarding the Harvester during the relevant Event. Incredibly durable and lethal."
+            },
+            {
+                "id": 15,
+                "name": "Matriarch",
+                "image": "matriarch",
+                "desc": "The Matriarch makes the Queen look friendly by comparison. This colossal terror dominates the battlefield with punishing barrages that impair vision, cripples movement, and tear Raiders apart.\n\nThe Matriarch's Reactor is one of the most sought after trophies. Few Raiders have managed to bring one back home."
             }
         ]
     },
@@ -97,19 +103,19 @@
                 "id": 1,
                 "name": "ARC Probe",
                 "image": "probe",
-                "desc": "placeholder"
+                "desc": "Known across The Rust Belt for their ear-piercing signals, the Probes are sent down on a regular basis, collecting samples and data from the soil before returning back to orbit.\n\nWhile it is unknown which specific resources ARC is probing for, most pray that whatever it is can't be found in The Rust Belt."
             },
             {
                 "id": 2,
                 "name": "ARC Courier",
                 "image": "courier",
-                "desc": "placeholder"
+                "desc": "Zipping across the skies at lightning speed, ARC's Couriers are known to transport smalled goods between sites unknown. Occasionally, Couriers may malfunction, crashing into the soil and sending thick plumes of smoke into the skies.\n\nWhen pried open, Couriers have been found to contain contents ranging from soil samples to what appear to be spare machine parts."
             },
             {
                 "id": 3,
                 "name": "ARC Surveyor",
                 "image": "surveyor",
-                "desc": "placeholder"
+                "desc": "Evasive and mysterious, the ARC Surveyor is known amongst Raiders as a rich source of high-value ARC tech.\n\nAlthough unarmed, it should be noted that the ARC Surveyor is not without defensive capabilities. If provoked, it may launch as an attack and try to ram whomever is close by."
             }
         ]
     },
@@ -121,7 +127,7 @@
                 "id": 1,
                 "name": "ARC",
                 "image": "arc",
-                "desc": "placeholder"
+                "desc": "For as long as machines have fallen from the sky, those roaming Topside have referred to them by one name, ARC. Named for the arced shapes displayed on radar screens when they come in from orbit, ARC first came to earth at the beginning of The First Wave, marking a sudden and devastating end to the hopeful era of Sunrise.\n\nWhile Raiders can only speculate as to the exact nature of ARC's operations, they have been widely observed probing the soil in great numbers, before harvesting natural resources with devastating efficiency. When sudden changes in ARC's operations are observed, it is cause for grave concern.\n\nThough efforts were made to contain the news, rumors soon started spreading throughout Speranza.\n\nThe same signal was later heard at the Red Tower Hideout in Buried City.\n\nIt is generally accepted that ARC's security forces constantly refine their designes and tactics in the face of new threats. This is especially apparent when comparing the rudimentary machines of the First Wave to the more sophisticated designs of the Second.\n\nRaiders are caught in a constant arms race with their orbital foes; seeking to outwit them with advanced weaponry and more refined tactics.\n\nInventors across Toledo have sought to repurpose ARC's technology as a way to stay ahead, leading to the development of energy=based Shields, and various makeshift gadgets and grenades."
             }
         ]
     }
