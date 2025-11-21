@@ -37,18 +37,7 @@ export default async function EntryContent({name}: Props) {
     return (
         <div className="absolute ml-159 mt-4 mr-99 pl-5">
             <div className="font-bold uppercase text-3xl">{entry?.name}</div>
-            {ent ?
-              <Image
-                src={`/images/lore/${cat}/${entry?.image}.webp`}
-                alt=""
-                width={255}
-                height={154}
-                className="mt-4"
-              />
-            :
-              <div></div>                       //Eventually for subcategory descriptions
-            }
-            <div className="h-70 mt-4 pr-5 whitespace-pre-line overflow-auto"><p>{entry?.desc}</p></div>
+            <div className="h-112 mt-4 pr-5 whitespace-pre-line overflow-auto"><p>{entry?.desc}</p></div>
         </div>
     )
 }
