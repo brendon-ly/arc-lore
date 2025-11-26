@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Header() {
     return (
-        <header className="isolate border-t-2 sticky top-0">
+        <header className="isolate border-t-2 top-0">
             <div className="mx-auto w-fit">
                 <div className="flex flex-row gap-x-20 justify-evenly pt-6 uppercase text-lg static">
                     <Link href="/">Home</Link>
