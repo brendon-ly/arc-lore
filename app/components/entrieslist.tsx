@@ -27,7 +27,7 @@ export default async function EntriesList({name}: EntriesProps) {
     const subcat = parts[1];                                            //cat - Category, subcat - SubCategory, ent - Entry
     let entriesCheck: boolean = false
 
-    const api = `http://localhost:3000/api/lore/${cat}`
+    const api = `https://arc-lore.vercel.app//api/lore/${cat}`
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
     let activeLore;

@@ -27,7 +27,7 @@ export default async function EntryContent({name}: Props) {
     const subcat = parts[1];
     const ent = parts[2];
 
-    const api = `http://localhost:3000/api/lore/${cat}`
+    const api = `https://arc-lore.vercel.app//api/lore/${cat}`
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
     const activeLore = lores.find((lore) => slugify(lore.subcategory) === slugify(subcat))
