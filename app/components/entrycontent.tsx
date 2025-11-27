@@ -27,16 +27,32 @@ export default async function EntryContent({name}: Props) {
     const subcat = parts[1];
     const ent = parts[2];
 
-    const api = `https://arc-lore.vercel.app//api/lore/${cat}`
+    if (parts.length == 1) return(<p> </p>)
+
+    const api = `https://arc-lore.vercel.app/api/lore/${cat}`
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
     const activeLore = lores.find((lore) => slugify(lore.subcategory) === slugify(subcat))
     const entry = activeLore?.entries.find(e => slugify(e.name) === ent);
 
     return (
-        <div className="absolute ml-159 mt-4 mr-99 pl-5">
-            <div className="font-bold uppercase text-3xl">{entry?.name}</div>
-            <div className="h-112 mt-4 pr-5 whitespace-pre-line overflow-auto"><p>{entry?.desc}</p></div>
-        </div>
+        <div className="relative ">
+    <div className="font-bold uppercase text-2xl sm:text-3xl mb-4">
+      {entry?.name}
+    </div>
+
+    <div
+      className="
+        h-[47vh] md:h-[47vh]
+        overflow-auto 
+        whitespace-pre-line 
+        pr-2
+      "
+    >
+      <p className="text-base md:text-lg leading-relaxed">
+        {entry?.desc}
+      </p>
+    </div>
+  </div>
     )
 }
