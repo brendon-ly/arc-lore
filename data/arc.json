@@ -46,49 +46,55 @@
                 "desc": "The crude, stationary Turret can be found in buildings all over the Rust Belt. The unit is equipped with a sweeping scanner and a gun capable of unleashing barrages of bullets.\n\nIt is speculated that Turrets deploy and mount themselves autonomously, though it is unknown to what extent. What is clear though is that they are spread in generous numbers and force Raiders to be constantly on guard.\n\nAlthough a nuisance, the Turret scanner emits visible light, allowing them to be avoided by attentive Raiders. It is also not particularly hard to destroy if spotted in time."
             },
             {
-               "id": 8,
+                "id": 8,
+                "name": "Shredder",
+                "image": "shredder",
+                "desc": "When this relentless lump of menace was first encountered at the Stella Montis facility, it left behind a trail of downed Raiders. It was dubbed the 'Shredder' by what few Raiders managed to get back to safety; a name that wasn't so much clever as it was painfully literal."
+            },
+            {
+               "id": 9,
                 "name": "Sentinel",
                 "image": "sentinel",
                 "desc": "The Sentinel's light plating leaves it relatively exposed, but it can be challenging for Raider to get close enough for a clean shot. Learning how to approach a Sentinel with going down oneself is a risky endeavor." 
             },
             {
-                "id": 9,
+                "id": 10,
                 "name": "Rocketeer",
                 "image": "rocketeer",
                 "desc": "Looming grimly in the skies, the Rocketeer is a large, heavily-armored, long range artillery machine. It dominates open spaces with its powerful missile launchers. It can target Raiders from afar, creating hazardous zones that force Raiders to stay on the move or seek cover.\n\nLike the Wasp and the Hornet, it sports thrusters to stay airborne. While these thrusters are technically weak spots, they are large and take a significant amount of firepower to destroy.\n\nThough its devastating blasts have sent many an overly-bold Raider to the clinic, increased firepower and clever tactics have allowed some to take the Rocketeers down."
             },
             {
-                "id": 10,
+                "id": 11,
                 "name": "Leaper",
                 "image": "leaper",
                 "desc": "The Leaper is an agile, four-legged brute, often found stomping around open areas. It is equipped with a powerful shockwave pulse that hits anyone nearby, and can leap at Raiders across astonishing distances. Historically, most Raiders have learned to avoid it altogether.\n\nLeapers are commonly found in high-risk areas, guarding valuable objectives or patrolling alongside smaller, quicker enemies, thus creating layered threats that can be hard to deal with.\n\nAfter years of gathering intel, constructing outposts, and regaining the faintest semblance of unity, the Leaper is no longer considered the invincible foe it once was. Though still a formidable enemy, the Leaper's Pulse Units can now occassionally be spotted decorating Raider Dens as a trophy."
             },
             {
-                "id": 11,
+                "id": 12,
                 "name": "Bastion",
                 "image": "bastion",
                 "desc": "Covered in thick plating, the Bastion is a fortress on legs. While it may be slow, it absolutely dominates wherever it patrols with heavy gatling-gun fire; turning anyone who gets in its way into Swiss cheese.\n\nBased on Raider observations of its behavior, the Bastion is believed to be deployed where ARC detects potential resource deposits worth defending at all costs.\n\nIt is much easier to try hampering the Bastion's movement by destroying its legs, which may also help in getting clear shots at its unplated back."
             },
             {
-                "id": 12,
+                "id": 13,
                 "name": "Bombardier",
                 "image": "bombardier",
                 "desc": "The Bombardier is an imposing slugger, seemingly sharing a strong kinship with the Bastion, albeit with a distinct signature mayhem. It will try to flush Raiders out of cover with heavy mortar fire.\n\nSeveral theories exist as to how and why ARC deploys its Bombardiers, though all agree that it is a lethal piece of machinery that has sent countless Raiders to the infirmary."
             },
             {
-                "id": 13,
+                "id": 14,
                 "name": "Spotter",
                 "image": "spotter",
                 "desc": "Despite its size, the Spotter can take considerable punishment. Combined with its unpredictable flight patterns, it's a frustrating opponent to pin down.\n\nHunting Spotters creates commotion and might draw the attention of opportunistic Raiders looking to eliminate the competition."
             },
             {
-                "id": 14,
+                "id": 15,
                 "name": "Queen",
                 "image": "queen",
                 "desc": "One of the largest of the ARC units and by proxy one of the most deadly, the Queen seems to only make an appearance to guard the Harvester, the purpose of which is still unknown."
             },
             {
-                "id": 15,
+                "id": 16,
                 "name": "Matriarch",
                 "image": "matriarch",
                 "desc": "The Matriarch makes the Queen look friendly by comparison. This colossal terror dominates the battlefield with punishing barrages that impair vision, cripples movement, and tear Raiders apart.\n\nThe Matriarch's Reactor is one of the most sought after trophies. Few Raiders have managed to bring one back home."
