@@ -1,5 +1,6 @@
 "use client";
 import { usePathname } from "next/navigation"
+import Link from "next/link";
 
 export default function CategoryHeader() {
     const pathname = usePathname();
@@ -18,7 +19,7 @@ export default function CategoryHeader() {
       mr-4 sm:mr-4 md:mr-90">
             <div className="font-bold uppercase text-3xl sm:text-4xl md:text-5xl">
                 {currentSubCat ?
-                <div>{currentCat} \\ {currentSubCat}</div>
+                <div><Link href={`/lore/${currentCat}`}>{currentCat}</Link> \\ {currentSubCat}</div>
                 :
                 <div>{currentCat}</div>
                 }
