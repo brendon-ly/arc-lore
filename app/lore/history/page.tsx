@@ -1,9 +1,9 @@
 import React from 'react'
-import EntriesList from '@/app/components/entrieslist'
+import Entries from '@/app/components/entries';
 export const dynamic = 'force-dynamic';
 
 export default function HistoryPage() {
   const path = "history";
-  return <EntriesList name = {path} />;
+  return <Entries name = {path} />;
 }
 

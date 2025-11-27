@@ -27,7 +27,7 @@ export default async function EntriesList({name}: EntriesProps) {
     const subcat = parts[1];                                            //cat - Category, subcat - SubCategory, ent - Entry
     let entriesCheck: boolean = false
 
-    const api = `https://arc-lore.vercel.app//api/lore/${cat}`
+    const api = `https://arc-lore.vercel.app/api/lore/${cat}`
     const response = await fetch(api)
     const lores : LoreData[]  = await response.json();
     let activeLore;
@@ -39,7 +39,8 @@ export default async function EntriesList({name}: EntriesProps) {
 
 
     if (parts.length > 1) return(
-        <ul className="h-123 mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto no-scrollbar">
+        <ul
+    className="flex flex-col gap-4 text-lg md:text-xl uppercase">
             {activeLore?.entries.map((entry) => (
                 <li key={entry.id}>
                     <Link href={`/lore/${cat}/${slugify(activeLore.subcategory)}/${slugify(entry.name)}`}>{entry.name}</Link>
@@ -49,7 +50,8 @@ export default async function EntriesList({name}: EntriesProps) {
     )
     
     return (
-        <ul className="h-123 mr-321 ml-102 mt-6 gap-5 flex flex-col flex-nowrap justify-start justify-items-start items-start text-xl uppercase border-r overflow-auto no-scrollbar">
+        <ul
+    className="flex flex-col gap-4 text-lg md:text-xl uppercase">
             {entriesCheck ?
             activeLore?.entries.map((entry) => (
                 <li key={entry.id}>

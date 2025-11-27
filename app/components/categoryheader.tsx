@@ -13,8 +13,10 @@ export default function CategoryHeader() {
     }
 
     return (
-        <div className="mr-99 ml-102 mt-20 pb-5 border-b">
-            <div className="font-bold uppercase text-5xl">
+        <div className="mt-20 pb-5 border-b
+      ml-4 sm:ml-4 md:ml-10 lg:ml-102
+      mr-4 sm:mr-4 md:mr-90">
+            <div className="font-bold uppercase text-3xl sm:text-4xl md:text-5xl">
                 {currentSubCat ?
                 <div>{currentCat} \\ {currentSubCat}</div>
                 :
